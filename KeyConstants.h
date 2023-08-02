@@ -14,7 +14,7 @@ class KeyPair
 
 class Keys
 {
-public :,
+public :
     static std::map<int, KeyPair> KEYS;
 };
 
